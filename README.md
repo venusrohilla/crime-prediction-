@@ -224,11 +224,11 @@ It is found, that **some rows have to be dropped** before doing regression analy
 
 6. Wage columns, wfed & wtrd are positively correlated to 'density' feature. This can be intuitively understood as the weekly wages would be higher in urban areas.
 
-### The above observations from EDA would be carried forward to help Linear Regression (Part II).
+### The above observations from EDA would be carried forward to help Linear Regression .
 
 **==============================================================================**
 
-# Linear Model on NCT of Delhi Crime Rate against women Dataset (Part II)
+# Linear Model on NCT of Delhi Crime Rate against women Dataset .
 
 ## Objective
 
