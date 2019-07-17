@@ -19,7 +19,7 @@ The dataset contains the data for crime rate against women in the NCT of Delhi a
 12. central - =1 if in central Delhi.
 13. urban - =1 if in south Delhi.
 14. wcon - weekly wage, construction
-16. wtuc - wkly wge, trns, util, commun
+15. wtuc - wkly wge, trns, util, commun
 17. wtrd - wkly wge, whlesle, retail trade
 18. wfir - wkly wge, fin, ins, real est
 19. wser - wkly wge, service industry
