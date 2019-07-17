@@ -55,6 +55,6 @@ _**From above analysis, it is found, that some rows have to be dropped before do
 Univariate visualization   provides summary statistics for each field in the raw data set. It is conducted **to find out how much a single feature in the dataset** would be helpful to determine the target feature, here in this case, crime rate.
 
 <p align="center">
-    <img src="https://github.com/AdroitAnandAI/Crime-Analysis-Prediction/blob/master/images/uva.PNG">
+    <img src="https://github.com/venusrohilla/crime-prediction-/blob/master/images/uva.PNG">
 </p>
 
