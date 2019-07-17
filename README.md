@@ -19,16 +19,16 @@ The dataset contains the data for crime rate against women in the NCT of Delhi a
 12. central - =1 if in central Delhi.
 13. urban - =1 if in south Delhi.
 14. wcon - weekly wage, construction
-15. wtuc - wkly wge, trns, util, commun
-16. wtrd - wkly wge, whlesle, retail trade
-17. wfir - wkly wge, fin, ins, real est
-18. wser - wkly wge, service industry
-19. wmfg - wkly wge, manufacturing
-20. wfed - wkly wge, fed employees
-21. wsta - wkly wge, state employees
-22. wloc - wkly wge, local gov emps
-23. mix - offense mix: face-to-face/other
-24. pctymle - percent young male
+16. wtuc - wkly wge, trns, util, commun
+17. wtrd - wkly wge, whlesle, retail trade
+18. wfir - wkly wge, fin, ins, real est
+19. wser - wkly wge, service industry
+20. wmfg - wkly wge, manufacturing
+21. wfed - wkly wge, fed employees
+22. wsta - wkly wge, state employees
+23. wloc - wkly wge, local gov emps
+24. mix - offense mix: face-to-face/other
+25. pctymle - percent young male
 
 ## Objective
 1. To perform **univariate** and **bivariate exploratory analysis** of the dataset provided.
